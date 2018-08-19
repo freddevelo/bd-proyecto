@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UPN", "UPN\UPN.vbproj", "{F2DA711A-A6D6-4879-949F-69C85ED25109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2DA711A-A6D6-4879-949F-69C85ED25109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DA711A-A6D6-4879-949F-69C85ED25109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DA711A-A6D6-4879-949F-69C85ED25109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DA711A-A6D6-4879-949F-69C85ED25109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB3260B2-0A9F-438F-809A-D652446D8DAE}
+	EndGlobalSection
+EndGlobal
